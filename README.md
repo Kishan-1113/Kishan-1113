@@ -1,17 +1,17 @@
 # Hi, I'm Kishan 👋
 
-### AI/ML & Backend Developer
+### Backend Developer and DevOps Engineer
 
-I build intelligent developer tools, machine learning applications,
-and scalable backend systems.
+I build intelligent developer tools, scallable & reliable backend systems, deployment of applications,
+and managing backend systems.
 
 Currently exploring:
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 🧠 NLP & Computer Vision
-- ⚙️ Backend Engineering
+- 🤖 DevOps best practices
+- 🧠 Industry grade backend architecture
+- ⚙️ Backend automation tools
 - 🐳 Distributed Systems & Cloud
-- 🦾 Robotics
+  
 
 ---
 
@@ -70,6 +70,6 @@ Message-driven backend architecture using Spring Boot and RabbitMQ.
 
 ## 📫 Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN
-- Portfolio: YOUR_PORTFOLIO
-- Email: YOUR_EMAIL
+- LinkedIn: [Kishan Bhadra](https://www.linkedin.com/in/kishan-bhadra-1b14bb324/)
+- Portfolio: [Resume](https://drive.google.com/file/d/1ml9Kt4xmeYDS1Za3WFerTk4Nl0JFAJr8/view?usp=sharing)
+- Email: kishannita28@gmail.com
