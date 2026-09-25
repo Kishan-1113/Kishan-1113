@@ -6,10 +6,11 @@ I build intelligent developer tools and scalable, reliable backend systems —
 from deployment pipelines to distributed architectures.
 
 **Currently exploring:**
-- 🤖 DevOps best practices
-- 🧠 Industry-grade backend architecture
-- ⚙️ Backend automation tools
 - 🐳 Distributed systems & cloud infrastructure
+- 🤖 System reliability and observability
+- 🧠 Production-grade backend architecture
+- ⚙️ CI/CD and deployment automation
+- 🛜 Advanced networking
 
 ---
 
@@ -61,13 +62,6 @@ Message-driven backend architecture using Spring Boot and RabbitMQ.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-## 📊 GitHub Stats
-
-![Kishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kishan-1113&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishan-1113&layout=compact)
 
 ---
 
